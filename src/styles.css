@@ -1,0 +1,17 @@
+html {
+    height: 100%;
+    font-family: 'Rubik', sans-serif;
+}
+
+body {
+    height: 100%;
+    margin: 0;
+}
+
+mat-toolbar .mat-toolbar-single-row {
+    display: none;
+}
+
+.mat-tab-links {
+    justify-content: space-around;
+}
