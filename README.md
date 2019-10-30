@@ -1,4 +1,4 @@
-Angular project 'hotel-app'
+Angular project 'hotel-app'.
 
 # Apphotel
 
